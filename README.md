@@ -4,6 +4,9 @@ An end-to-end, consulting-grade data analysis project analyzing student stress, 
 
 Delivered with modern corporate design aesthetics matching top consulting firms (McKinsey, Deloitte, PwC).
 
+https://competitive-exam-student-analytics-gilt.vercel.app/
+
+
 ## 🛠 Tech Stack
 
 - **Core & Manipulation**: Python 3.13, Pandas, NumPy
