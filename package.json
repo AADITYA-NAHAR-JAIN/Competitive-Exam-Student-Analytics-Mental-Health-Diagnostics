@@ -1,0 +1,9 @@
+{
+  "name": "survey-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static Vercel deployment for the survey dashboard",
+  "scripts": {
+    "build": "echo \"No build step required for static dashboard.\""
+  }
+}
